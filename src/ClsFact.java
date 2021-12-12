@@ -6,7 +6,7 @@ public class ClsFact {
 		
 	}
 	public int factorial(int a) {
-		return a+5;
+		return a+6;
 	}
 
 }
