@@ -5,8 +5,8 @@ public class ClsFact {
 		// TODO Auto-generated method stub
 		
 	}
-	public int factorial(int a) {
-		return a+6;
+	public int factorial(int a, int b) {
+		return a+b+6;
 	}
 
 }
